@@ -26,7 +26,7 @@ https://www.energy.virginia.gov/geology/geologymineralresources.shtml,geology-an
 https://mrdata.usgs.gov/major-deposits,mrdata-major-deposits,database,https://minmod.isi.edu/users/s/umn,Major mineral deposits of the world,0.5,webpage:::https://mrdata.usgs.gov/major-deposits/show-ofr20051294.php?rec_id={record_id}
 https://mrdata.usgs.gov/ree,mrdata-ree,database,https://minmod.isi.edu/users/s/umn,"Rare earth element mines, deposits, and occurrences",0.5,webpage:::https://mrdata.usgs.gov/ree/show-ree.php?rec_id={record_id}
 https://mrdata.usgs.gov/mrds,mrdata-mrds,database,https://minmod.isi.edu/users/s/umn,Mineral Resources Data System (MRDS),0.1,webpage:::https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id={record_id}
-https://api.cdr.land/v1/docs/documents,mining-report,mining-report,https://minmod.isi.edu/users/s/inferlink,Mining Report storing in CDR,0.8,pdf:::https://docs.polymer.rocks/cdr/d/{record_id}/{page_number=1}
+https://api.cdr.land/v1/docs/documents,mining-report,mining-report,https://minmod.isi.edu/users/s/inferlink,Mining Report storing in CDR,0.8,
 https://mrdata.usgs.gov/deposit,mrdata-deposit,database,https://minmod.isi.edu/users/s/umn,USMIN Mineral Deposit Database,0.7,
 https://mrdata.usgs.gov/sedau,mrdata-sedau,database,https://minmod.isi.edu/users/s/umn,Sediment-hosted gold deposits,0.5,webpage:::https://mrdata.usgs.gov/sedau/show-sedau.php?recno={record_id}
 https://doi.org/10.5382/econgeo.4950,mudd-jowitt-nickel,article,https://minmod.isi.edu/users/s/sand,Mudd & Jowitt Nickel Data,0.8,
